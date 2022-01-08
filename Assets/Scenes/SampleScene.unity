@@ -591,6 +591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   paintingPrefab: {fileID: 899055442858875070, guid: 11db437f319e2ff41a331167e94e48a2, type: 3}
+  speed: 2
 --- !u!4 &1709889465
 Transform:
   m_ObjectHideFlags: 0
