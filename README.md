@@ -7,4 +7,4 @@ This project was made as an example for something I needed. And it is just what 
 
 ## XKCD
 
-(XKCD)[https://xkcd.com/] is a legendary geek web comic and it deserves a to be in a gallery. Go check out the website and support however you can.
+[XKCD](https://xkcd.com/) is a legendary geek web comic and it deserves a to be in a gallery. Go check out the website and support however you can.
